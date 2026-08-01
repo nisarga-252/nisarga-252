@@ -80,4 +80,4 @@ Email: nisargagr481@gmail.com
 
 GitHub: https://github.com/nisarga-252
 
-LinkedIn: Add your LinkedIn profile URL here
+LinkedIn: linkedin.com/in/nisargagr252
