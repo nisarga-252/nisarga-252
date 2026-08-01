@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there 👋, I'm Nisarga G R
 
-<!--
-**nisarga-252/nisarga-252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student at Amrita Vishwa Vidyapeetham
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning Java, Python, and Full-Stack Development
+- 🔐 Interested in Cybersecurity & Ethical Hacking
+- 🤖 Exploring AI Tools
+- 💡 Always eager to learn new technologies
+
+## 🛠️ Skills
+
+- Python
+- Java
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- Express.js
+- MongoDB
+- MySQL
+- Git & GitHub
+- Cybersecurity Fundamentals
+
+## 🚀 Projects
+
+- 🎫 Ticket Raising Platform (MERN Stack)
+- 🍎 Fruit Basket Store Website
+- 🛡️ Vulnerability Assessment Project
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/nisarga-252
+
+⭐ Thanks for visiting my profile!
